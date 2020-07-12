@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e98b3cc6c5bbcc561af70e7b9b1df690",
+    "revision": "4f14af30bebdffb67e3d54fc253dab54",
     "url": "/schedule-tsu/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/schedule-tsu/static/css/2.a6674286.chunk.css"
   },
   {
-    "revision": "8eee3ae3131aa30a7ad7",
+    "revision": "4ef231d13ac33294907e",
     "url": "/schedule-tsu/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/schedule-tsu/static/js/2.a56867a1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8eee3ae3131aa30a7ad7",
-    "url": "/schedule-tsu/static/js/main.e2412c09.chunk.js"
+    "revision": "4ef231d13ac33294907e",
+    "url": "/schedule-tsu/static/js/main.67fc967d.chunk.js"
   },
   {
     "revision": "2acb1d443962a0725b0f",
